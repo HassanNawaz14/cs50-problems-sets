@@ -1,0 +1,17 @@
+sort1 uses: Bubble Sort
+
+How do you know?: average case (shows worst too!) and best case are very different!
+random50000: 5.94s
+sorted50000: 0.645s
+
+sort2 uses: Merge Sort
+
+How do you know?: average case (shows worst too!) and best case are almost same and very small in comparison to other two!
+random50000: 0.73s
+sorted50000: 0.66s
+
+sort3 uses: Selection Sort
+
+How do you know?: average case (shows worst too!) and best case are almost same!
+random50000: 2.446s
+sorted50000: 2.436s
